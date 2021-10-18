@@ -3,7 +3,6 @@ import { Image, StyleSheet, View, Dimensions, ScrollView, Text, ActivityIndicato
 import { StackScreenProps } from '@react-navigation/stack';
 import { RootStackParams } from '../navigation/NavigationController';
 
-import Icon from 'react-native-vector-icons/Ionicons';
 import { useMovieDetails } from '../hooks/useMovieDetails';
 import { MovieDetails } from '../components/MovieDetails';
 
